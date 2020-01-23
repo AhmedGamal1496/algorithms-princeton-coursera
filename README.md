@@ -8,10 +8,14 @@ Also known as [algs4](https://algs4.cs.princeton.edu/) and Princeton [COS 226](h
 
 - [Part I](https://www.coursera.org/learn/algorithms-part1/) focuses on elementary data structures, sorting, and searching. Topics include union−find, binary search, stacks, queues, bags, insertion sort, selection sort, shellsort, quicksort, 3-way quicksort, mergesort, heapsort, binary heaps, binary search trees, red−black trees, separate-chaining and linear-probing hash tables, Graham scan, and kd-trees.
 
-- <a href="http://coursera.cs.princeton.edu/algs4/assignments/percolation.html" id="percolation" title="Assignment" rel="nofollow">Percolation</a> - Union-Find
-- <a href="http://coursera.cs.princeton.edu/algs4/assignments/queues.html" id="queues" title="Assignment" rel="nofollow">Deque and RandomizedQueue</a> [:white_check_mark:](http://coursera.cs.princeton.edu/algs4/checklists/queues.html "Checklist") [:computer:](./src/main/java/assignment2 "Code Implementation") [:100:](./test-output/Assignment2-Deque_RandomizedQueue-Stack_Queue.txt "Test Output") - Stack and Queue
-- <a href="http://coursera.cs.princeton.edu/algs4/assignments/collinear.html" id="collinear" title="Assignment" rel="nofollow">Collinear Points</a> [:white_check_mark:](http://coursera.cs.princeton.edu/algs4/checklists/collinear.html "Checklist") [:computer:](./src/main/java/assignment3 "Code Implementation") [:100:](./test-output/Assignment3-CollinearPoints-Sorting.txt "Test Output") - Sorting
-- <a href="http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html" id="8puzzle" title="Assignment" rel="nofollow">8 Puzzle</a> [:white_check_mark:](http://coursera.cs.princeton.edu/algs4/checklists/8puzzle.html "Checklist") [:computer:](./src/main/java/assignment4 "Code Implementation") [:100:](./test-output/Assignment4-8_Puzzle-PriorityQueue.txt "Test Output") - PriorityQueue
-- <a href="http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html" id="kdtree" title="Assignment" rel="nofollow">KdTree</a>  [:white_check_mark:](http://coursera.cs.princeton.edu/algs4/checklists/kdtree.html "Checklist") [:computer:](./src/main/java/assignment5 "Code Implementation") [:100:](./test-output/Assignment5-KdTree-SearchTree.txt "Test Output") - SearchTree
+- <a href="http://coursera.cs.princeton.edu/algs4/assignments/percolation.html" id="percolation" title="Assignment" rel="nofollow">Percolation</a> - Union-Find (given a porous landscape with water on the surface (or oil below), under what conditions will the water be able to drain through to the bottom)
+- <a href="http://coursera.cs.princeton.edu/algs4/assignments/queues.html" id="queues" title="Assignment" rel="nofollow">Deque and RandomizedQueue</a> - Stack and Queue (double-ended queue and randomized queue where the item to be removed is chosen randomly)
+- <a href="http://coursera.cs.princeton.edu/algs4/assignments/collinear.html" id="collinear" title="Assignment" rel="nofollow">Collinear Points</a> - Sorting (given a set of n distinct points in the plane, find every (maximal) line segment that connects a subset of 4 or more of the point)
+- <a href="http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html" id="8puzzle" title="Assignment" rel="nofollow">8 Puzzle</a> - PriorityQueue (find the shortest path to solve 8puzzle board using A* search algorithm)
+- <a href="http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html" id="kdtree" title="Assignment" rel="nofollow">KdTree</a> - SearchTree (use 2d-tree to implement a generalization of a BST to two-dimensional keys for range and nearest neighbor search)
+
+## Reference
+
+The [algs4 booksite](http://algs4.cs.princeton.edu/) is open to everyone and contains a wealth of supplementary information, including synopses of the textbook and Java code that you will be using throughout the course.
 
 
