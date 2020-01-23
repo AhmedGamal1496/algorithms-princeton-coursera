@@ -8,6 +8,8 @@ Also known as [algs4](https://algs4.cs.princeton.edu/) and Princeton [COS 226](h
 
 - [Part I](https://www.coursera.org/learn/algorithms-part1/) focuses on elementary data structures, sorting, and searching. Topics include union−find, binary search, stacks, queues, bags, insertion sort, selection sort, shellsort, quicksort, 3-way quicksort, mergesort, heapsort, binary heaps, binary search trees, red−black trees, separate-chaining and linear-probing hash tables, Graham scan, and kd-trees.
 
+## Assignments
+
 - <a href="http://coursera.cs.princeton.edu/algs4/assignments/percolation.html" id="percolation" title="Assignment" rel="nofollow">Percolation</a> - Union-Find (given a porous landscape with water on the surface (or oil below), under what conditions will the water be able to drain through to the bottom)
 - <a href="http://coursera.cs.princeton.edu/algs4/assignments/queues.html" id="queues" title="Assignment" rel="nofollow">Deque and RandomizedQueue</a> - Stack and Queue (double-ended queue and randomized queue where the item to be removed is chosen randomly)
 - <a href="http://coursera.cs.princeton.edu/algs4/assignments/collinear.html" id="collinear" title="Assignment" rel="nofollow">Collinear Points</a> - Sorting (given a set of n distinct points in the plane, find every (maximal) line segment that connects a subset of 4 or more of the point)
